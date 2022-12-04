@@ -26,7 +26,7 @@ const Footer = () => (
             className="w-[24px] h-[24px] object-contain"
           />
           <span className="font-normal text-[16px] text-white">
-          See our full offer...
+            See our full offer...
           </span>
         </button>
       </div>
@@ -36,7 +36,7 @@ const Footer = () => (
 
         <div className="flex items-center justify-between flex-wrap gap-4">
           <h4 className="font-extrabold text-[24px] text-white">
-           ABC Travel
+            ABC Travel
           </h4>
           <p className="font-normal text-[14px] text-white opacity-50">
             Copyright © 2022 ABC Travels. All rights reserved.
